@@ -22,4 +22,4 @@ The premise of the game is to collect items which boost their corresponding scor
 
 <img class="ui image" src="{{ site.baseurl }}/images/pandpgameover.png">
 
-Video: <a href="https://youtu.be/BmEefV5Su0w">youtu.be/BmEefV5Su0w</a>
+Video Demonstration: <a href="https://youtu.be/BmEefV5Su0w">youtu.be/BmEefV5Su0w</a>
