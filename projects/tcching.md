@@ -14,5 +14,7 @@ summary: A poster I made with watercolor and colored pencil, which received 3rd 
 
 <img class="ui image" src="{{ site.baseurl }}/images/poster_1.jpg">
 
+I created the poster with the prompt "Inspired in Hawaii", in which we created an essay, poster, or video to attempt to inspire positive change in Hawaii. 
+
 More information at: <a href="https://www.clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners">clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners</a>
 
