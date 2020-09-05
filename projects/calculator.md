@@ -21,7 +21,7 @@ Here is an example function, x squared, which has its points calculated to be ad
 Example antiderivations and derivations back to the original function.
 <img class="ui image" src="{{ site.baseurl }}/images/antiderivative.jpg">
 
-As a last addition, I decided to have a simple graph displaying a visualization of the functions. The x and y axes are displayed along with inputs [-10, 10]. The image below shows the result of x squared, and it's derivative 2x.
+As a last addition, I decided to have a simple graph displaying a visualization of the functions. The x and y axes are displayed along with inputs [-10, 10]. The image below shows the result of x squared, and it's derivative 2x. The graph can also be visually scaled to support higher y values. The graph made use of the EZ.java library.
 <img class="ui image" src="{{ site.baseurl }}/images/graph_visual.jpg">
 
 
