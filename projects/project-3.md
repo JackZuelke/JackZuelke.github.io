@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/poster.jpg
+title: T.C. Ching Foundation Poster
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-11-13
 labels:
-  - Lisp
-  - GitHub
+  - Contest
+  - Art
 summary: A text adventure game I developed for ICS 313.
 ---
 
