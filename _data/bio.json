@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -68,7 +68,7 @@
       ]
     }
   ],
-  /*"work": [
+  "work": [
     {
       "company": "",
       "position": "",
@@ -101,7 +101,7 @@
       "awarder": "",
       "summary": ""
     }
-  ],*/
+  ],
   "references": [
     {
       "name": "Available upon request",
