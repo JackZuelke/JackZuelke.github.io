@@ -14,7 +14,7 @@ labels:
 summary: A game I created for ICS 111, which features all custom digital art assets, and fun acceleration based movement.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/pandpbackground.png">
+<img class="ui image" src="{{ site.baseurl }}/images/pandpbackground.png">
 
  
 Video: <a href="https://youtu.be/BmEefV5Su0w">youtu.be/BmEefV5Su0w</a>
