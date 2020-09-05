@@ -57,5 +57,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-More information at: <a href="https://www.clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners"></i>theVacay/vacay</a>
+More information at: <a href="https://www.clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners"></i>clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners</a>
 
