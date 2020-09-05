@@ -19,7 +19,5 @@ summary: A polynomial derivative and antiderivative calculator I made as a perso
 
 <img class="ui image" src="{{ site.baseurl }}/images/graph_visual.jpg">
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
