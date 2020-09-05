@@ -18,7 +18,7 @@ I created the poster with the prompt "Inspired in Hawaii", in which we created a
 
 The painting was meant to show, not only the corrupted waters, creating dead coral in its wake, but also corruption in the hotels that placed the hoses there without any regard for the ocean, or other people.
 
-It was a lot of fun creating this piece, as I used new techniques to layer watercolor on top of colored pencil; and I liked the chaotic pluming look and contrast of the hand of corruption.
+It was a lot of fun creating this piece, as I used new techniques to layer watercolor on top of colored pencil; and I liked the chaotic, pluming look and contrast of the hand of corruption.
 
 More information at: <a href="https://www.clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners">clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners</a>
 
