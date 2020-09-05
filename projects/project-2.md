@@ -8,9 +8,10 @@ permalink: projects/pumpkinsandpotions
 date: 2018-10-21
 labels:
   - Java
+  - EZ.java
   - Game
   - Art
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A game I created for ICS 111, which features all custom digital art assets.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
