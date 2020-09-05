@@ -8,6 +8,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-## Overview of JavaScript
+## 
 
 Lorem
