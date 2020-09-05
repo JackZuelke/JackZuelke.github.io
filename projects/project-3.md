@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/poster.jpg
 title: T.C. Ching Foundation Poster
-permalink: projects/cotton
+permalink: projects/tcching
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-13
 labels:
   - Contest
   - Art
-summary: A text adventure game I developed for ICS 313.
+summary: A poster I made with watercolor and colored pencil, which received 3rd place in the 12th grade poster contest.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
