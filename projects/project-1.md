@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/graph_visual.jpg
 title: Polynomial Derivative Calculator
-permalink: projects/micromouse
+permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-12-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - EZ.java
+  - Calculus
+summary: A polynomial derivative and antiderivative calculator I made as a personal project.
 ---
 
 <div class="ui small rounded images">
