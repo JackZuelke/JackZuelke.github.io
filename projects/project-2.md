@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pumpkinsandpotions.png
+image: images/pumpkinsandpotions.jpg
 title: Pumpkins and Potions
 permalink: projects/pumpkinsandpotions
 # All dates must be YYYY-MM-DD format!
