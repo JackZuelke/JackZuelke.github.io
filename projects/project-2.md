@@ -11,7 +11,7 @@ labels:
   - EZ.java
   - Game
   - Art
-summary: A game I created for ICS 111, which features all custom digital art assets.
+summary: A game I created for ICS 111, which features all custom digital art assets, and fun acceleration based movement.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
