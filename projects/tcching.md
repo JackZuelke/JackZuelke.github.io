@@ -20,5 +20,7 @@ The painting was meant to show, not only the corrupted waters, creating dead cor
 
 It was a lot of fun creating this piece, as I used new techniques to layer watercolor on top of colored pencil; and I liked the chaotic, pluming look and contrast of the hand of corruption.
 
+I received 3rd place in the high school senior poster division.
+
 More information at: <a href="https://www.clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners">clarencetcchingfoundation.org/2017-essay-poster-and-video-contest-winners</a>
 
