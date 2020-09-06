@@ -8,6 +8,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-## Hopes For Software Engineering
-
-Starting ICS 314, I wasn't quite sure what to expect out of the class, but was excited by the prospect of making fully fledged programs, and what types of skills would be involved that I could learn about. The 
+## Expectations For Software Engineering
+[//]: # "interests in software engineering and what kinds of skills and experiences you hope to develop in future."
+Starting ICS 314, I wasn't quite sure what to expect out of the class, but was excited by the prospect of making fully fledged programs, and what types of skills would be involved that I could learn about. My 
