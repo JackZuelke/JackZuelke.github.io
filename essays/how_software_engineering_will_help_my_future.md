@@ -9,5 +9,6 @@ labels:
   - Learning
 ---
 ## Hopes For Software Engineering
-
-Starting ICS 314, I wasn't quite sure what to expect out of the class, but was excited by the prospect of making fully fledged programs, and what types of skills would be involved that I could learn about. 
+# Testing if this is a comment
+Testing.
+Starting ICS 314, I wasn't quite sure what to expect out of the class, but was excited by the prospect of making fully fledged programs, and what types of skills would be involved that I could learn about. The 
